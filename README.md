@@ -3,16 +3,11 @@
 # Node-ws
 基于serverless实现的vless+trojan双协议代理,轻量，无内核。
 
----
 
-Telegram交流反馈群组：https://t.me/eooceu
-
-huggingface视频教程地址：https://youtu.be/XERxg9AODeo
-</div>
 
 ## [web-hosting部署指南](https://github.com/eooce/node-ws/blob/main/web-hosting.md) （适用于所有带nodejs App功能DirectAdmin面板）
 
-* 用于node环境的玩具和容器，基于node三方ws库，vless+trojan双协议，集成哪吒探针服务(v0或v1)，可自行添加环境变量
+* 用于node环境的玩具和容器，基于node三方ws库，vless+trojan双协议，可自行添加环境变量
 
 * PaaS 平台设置的环境变量
   | 变量名        | 是否必须 | 默认值 | 备注 |
