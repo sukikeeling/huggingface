@@ -23,7 +23,7 @@
 
     
 * 温馨提示：READAME.md为说明文件，请不要上传。
-* js混肴地址：https://obfuscator.io
+* js混肴地址：https://
 
 ### 使用cloudflare workers 或 snippets 反代域名套cdn加速
 ```
